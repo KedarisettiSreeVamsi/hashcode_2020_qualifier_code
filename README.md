@@ -1,4 +1,4 @@
-# hashcode_2020_qualifier_code
+# hashcode_2020_qualifier_round_code
 
 <h2> Change the following line of code for file input </h2>
 <code> file = open('your_filename.txt','r')</code>
